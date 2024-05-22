@@ -1,6 +1,6 @@
 ## Saas One
 
-![Image-One](./public/Image-01.png)
+![Image-One](./public/image-01.png)
 
 ![Image-Two](./public/Image-02.png)
 
